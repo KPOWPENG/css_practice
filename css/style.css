@@ -23,8 +23,8 @@ p {
 }
 
 img {
-    display: block;
-    margin: auto;
+    margin-right: auto;
+    margin-left: auto;
     width: 250px;
     border: 10px dashed #FFFFFF;
 }
